@@ -2,4 +2,4 @@ function greet(name) {
     return `Hello, ${name}!`;
 }
 
-greet('Zafar'); // Output: Hello, World!
+greet('Zafar Update'); // Output: Hello, World!
