@@ -5,5 +5,5 @@ function hello(name) {
 
 hello('Zafar'); // Output: Hello, Zafar!
 
-hello('Rimsha'); // Output: Hello, World!
+hello('Tahir'); // Output: Hello, World!
 
