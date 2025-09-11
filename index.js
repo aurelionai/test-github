@@ -5,5 +5,5 @@ function hello(name) {
 
 hello('Zafar'); // Output: Hello, Zafar update!
 
-hello('Tahir update for observation not'); // Output: Hello, World!
+hello('Tahir update for observation yes it good'); // Output: Hello, World!
 
