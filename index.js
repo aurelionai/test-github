@@ -7,3 +7,5 @@ hello('Zafar'); // Output: Hello, Zafar update!
 
 hello('Tahir update for observation yes it good'); // Output: Hello, World!
 
+hello('Usman'); // Output: Hello, World!
+
