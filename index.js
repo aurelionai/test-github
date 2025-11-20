@@ -3,7 +3,7 @@ function hello(name) {
 }
 
 
-hello('Info'); // Output: Hello, Zafar update!
+hello('Info Latest'); // Output: Hello, Zafar update!
 
 hello('Usman update for observation yes it good'); // Output: Hello, World!
 
